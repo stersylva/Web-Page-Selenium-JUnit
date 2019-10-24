@@ -2,13 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f55c3c29-b9ac-4090-8c99-c67bbd9f2610" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/com/sun/org/apache/bcel/internal/generic/annotations.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/TesteRegraDeNegocio.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/DesafioRegraDeNegocio.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/TesteGoogle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/TesteGoogle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/TesteRegraDeNegocio.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/TesteRegraDeNegocio.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/DesafioRegraDeNegocio.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/TesteGoogle.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/TesteGoogle.class" afterDir="false" />
     </list>
@@ -24,11 +21,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/TesteRegraDeNegocio.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="10" column="19" lean-forward="true" selection-start-line="10" selection-start-column="19" selection-end-line="10" selection-end-column="19" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="30">
+              <caret line="2" column="30" lean-forward="true" selection-start-line="2" selection-start-column="30" selection-end-line="2" selection-end-column="30" />
             </state>
           </provider>
         </entry>
@@ -100,7 +94,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1571877851512" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1571878421899" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RunDashboard">
@@ -188,12 +182,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="TesteCadastro - 2019.10.23 at 20h 31m 47s.xml">
-      <configuration name="TesteCadastro" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="TesteCadastro_ValidarEsportista - 2019.10.23 at 21h 25m 40s.xml">
-      <configuration name="TesteCadastro.ValidarEsportista" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="TesteRegraDeNegocio - 2019.10.23 at 21h 26m 54s.xml">
       <configuration name="TesteRegraDeNegocio" configurationId="JUnit" />
     </history-entry>
@@ -218,10 +206,15 @@
     <history-entry file="TesteRegraDeNegocio_RealizarCadastroComSucesso - 2019.10.23 at 21h 42m 10s.xml">
       <configuration name="TesteRegraDeNegocio.RealizarCadastroComSucesso" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="TesteRegraDeNegocio - 2019.10.23 at 21h 42m 57s.xml">
+      <configuration name="TesteRegraDeNegocio" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TesteRegraDeNegocio - 2019.10.23 at 21h 44m 13s.xml">
+      <configuration name="TesteRegraDeNegocio" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="ToolWindowManager">
     <frame x="-3" y="26" width="1372" height="744" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25378788" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -232,12 +225,12 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32956383" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32956383" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.32956383" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="9" />
       <window_info anchor="bottom" id="Messages" order="10" weight="0.3279483" />
@@ -268,11 +261,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/TesteRegraDeNegocio.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="19" lean-forward="true" selection-start-line="10" selection-start-column="19" selection-end-line="10" selection-end-column="19" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="30">
+          <caret line="2" column="30" lean-forward="true" selection-start-line="2" selection-start-column="30" selection-end-line="2" selection-end-column="30" />
         </state>
       </provider>
     </entry>
