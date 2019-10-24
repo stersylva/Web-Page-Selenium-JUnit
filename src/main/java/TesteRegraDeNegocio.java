@@ -8,7 +8,36 @@ import org.openqa.selenium.support.ui.Select;
 
 import org.openqa.selenium.chrome.ChromeDriver;
 
-public class TesteCadastro {
+public class TesteRegraDeNegocio {
+    @Test
+    public void RealizarCadastroComSucesso() {
+        System.setProperty("webdriver.chrome.driver", "/home/stefania/Projetos/web/chromedriver");
+        WebDriver driver = new ChromeDriver();
+        driver.manage().window().maximize();
+        driver.get("file:///home/stefania/Projetos/Desafio_paginas_da_web/componentes.html");
+
+        driver.findElement(By.id("elementosForm:nome")).sendKeys("Maria");
+        driver.findElement(By.id("elementosForm:sobrenome")).sendKeys("Silva");
+        driver.findElement(By.id("elementosForm:sexo:1")).click();
+        driver.findElement(By.id("elementosForm:comidaFavorita:2")).click();
+        new Select(driver.findElement(By.id("elementosForm:escolaridade")))
+                .selectByVisibleText("Mestrado");
+        new Select(driver.findElement(By.id("elementosForm:esportes")))
+                .selectByVisibleText("Natacao");
+        driver.findElement(By.id("elementosForm:cadastrar")).click();
+
+        Assert.assertTrue(driver.findElement(By.id("resultado")).getText().startsWith("Cadastrado!"));
+        Assert.assertTrue(driver.findElement(By.id("descNome")).getText().endsWith("Maria"));
+        Assert.assertEquals("Sobrenome: Silva", driver.findElement(By.id("descSobrenome")).getText());
+        Assert.assertEquals("Sexo: Feminino", driver.findElement(By.id("descSexo")).getText());
+        Assert.assertEquals("Comida: Pizza", driver.findElement(By.id("descComida")).getText());
+        Assert.assertEquals("Escolaridade: mestrado", driver.findElement(By.id("descEscolaridade")).getText());
+        Assert.assertEquals("Esportes: Natacao", driver.findElement(By.id("descEsportes")).getText());
+
+        driver.quit();
+    }
+
+
     @Test
     public void ValidarNomeObrigatorio() {
         System.setProperty("webdriver.chrome.driver", "/home/stefania/Projetos/web/chromedriver");
@@ -47,6 +76,7 @@ public class TesteCadastro {
 
         driver.findElement(By.id("elementosForm:nome")).sendKeys("Maria");
         driver.findElement(By.id("elementosForm:sobrenome")).sendKeys("Silva");
+        driver.findElement(By.id("elementosForm:cadastrar")).click();
         Alert alert = driver.switchTo().alert();
         Assert.assertEquals("Sexo eh obrigatorio", alert.getText());
         driver.quit();
@@ -64,6 +94,7 @@ public class TesteCadastro {
         driver.findElement(By.id("elementosForm:sexo:1")).click();
         driver.findElement(By.id("elementosForm:comidaFavorita:0")).click();
         driver.findElement(By.id("elementosForm:comidaFavorita:3")).click();
+        driver.findElement(By.id("elementosForm:cadastrar")).click();
         Alert alert = driver.switchTo().alert();
         Assert.assertEquals("Tem certeza que voce eh vegetariano?", alert.getText());
         driver.quit();
