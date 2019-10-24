@@ -1,0 +1,5 @@
+<root>
+    <item name='com.sun.org.apache.bcel.internal.generic.Select'>
+        <annotation name='java.lang.Deprecated'/>
+    </item>
+</root>
