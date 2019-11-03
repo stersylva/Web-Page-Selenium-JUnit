@@ -39,6 +39,7 @@ public class TesteRegraDeNegocio {
         Assert.assertTrue(driver.findElement(By.id("resultado")).getText().startsWith("Cadastrado!"));
         Assert.assertTrue(driver.findElement(By.id("descNome")).getText().endsWith("Maria"));
 
+
         Assert.assertEquals("Sobrenome: Silva", driver.findElement(By.id("descSobrenome")).getText());
         Assert.assertEquals("Sexo: Feminino", driver.findElement(By.id("descSexo")).getText());
         Assert.assertEquals("Comida: Pizza", driver.findElement(By.id("descComida")).getText());
