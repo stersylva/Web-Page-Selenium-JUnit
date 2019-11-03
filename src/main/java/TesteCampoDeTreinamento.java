@@ -154,5 +154,26 @@ public class TesteCampoDeTreinamento {
         driver.get("file:///home/stefania/Projetos/Desafio_paginas_da_web/componentes.html");
 
         driver.findElement(By.linkText("Voltar")).click();
+        Assert.assertEquals("Voltou!", driver.findElement(By.id("resultado")).getText());
+        driver.quit();
+    }
+    @Test
+    public void texto() {
+        System.setProperty("webdriver.chrome.driver", "/home/stefania/Projetos/web/chromedriver");
+        WebDriver driver = new ChromeDriver();
+        driver.manage().window().maximize();
+        driver.get("file:///home/stefania/Projetos/Desafio_paginas_da_web/componentes.html");
+
+        //System.out.println(driver.findElement(By.tagName("body")).getText()); // todo texto visivel na tela
+//        Assert.assertTrue(driver.findElement(By.tagName("body"))
+//                .getText().contains("Campo de Treinamento"));
+
+        //melhor forma de pegar um texto na tela
+        Assert.assertEquals("Campo de Treinamento", driver.findElement(By.tagName("h3"))
+                .getText());
+        Assert.assertEquals("Cuidado onde clica, muitas armadilhas...",
+                driver.findElement(By.className("facilAchar")).getText());
+
+        driver.quit();
     }
 }
