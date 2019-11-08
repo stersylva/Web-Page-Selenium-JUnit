@@ -2,12 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f55c3c29-b9ac-4090-8c99-c67bbd9f2610" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/TesteAlert.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/TesteCampoDeTreinamento.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/TesteCampoDeTreinamento.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/TesteRegraDeNegocio.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/TesteRegraDeNegocio.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/TesteCampoDeTreinamento.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/TesteCampoDeTreinamento.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/TesteRegraDeNegocio.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/TesteRegraDeNegocio.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/TesteFramesEJanelas.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/TesteFramesEJanelas.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/TesteAlert.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/TesteAlert.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -21,7 +18,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/TesteCampoDeTreinamento.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
+            <state relative-caret-position="345">
               <caret line="32" column="44" selection-start-line="32" selection-start-column="44" selection-end-line="32" selection-end-column="44" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -30,11 +27,23 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/TesteAlert.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="66" column="22" selection-start-line="66" selection-start-column="22" selection-end-line="66" selection-end-column="22" />
+            <state relative-caret-position="240">
+              <caret line="16" column="93" lean-forward="true" selection-start-line="11" selection-start-column="4" selection-end-line="16" selection-end-column="93" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/TesteFramesEJanelas.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="435">
+              <caret line="55" column="22" selection-start-line="55" selection-start-column="22" selection-end-line="55" selection-end-column="22" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -64,6 +73,8 @@
         <option value="$PROJECT_DIR$/src/main/java/TesteRegraDeNegocio.java" />
         <option value="$PROJECT_DIR$/src/main/java/TesteCampoDeTreinamento.java" />
         <option value="$PROJECT_DIR$/src/main/java/TesteAlert.java" />
+        <option value="$PROJECT_DIR$/src/main/java/TesteFrames.java" />
+        <option value="$PROJECT_DIR$/src/main/java/TesteFramesEJanelas.java" />
       </list>
     </option>
   </component>
@@ -99,13 +110,6 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="cursoSelemiun" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Desafio_paginas_da_web" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -113,7 +117,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1572793098126" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1573178863207" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
@@ -129,7 +133,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.TesteAlert.alertPrompt">
+  <component name="RunManager" selected="JUnit.TesteFramesEJanelas.JanelaSemTitulo">
     <configuration name="TesteAlert.alertCorfirm" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="cursoSelemiun" />
       <option name="PACKAGE_NAME" value="" />
@@ -150,14 +154,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TesteCampoDeTreinamento" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="cursoSelemiun" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="TesteCampoDeTreinamento" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="TesteCampoDeTreinamento.link" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="cursoSelemiun" />
       <option name="PACKAGE_NAME" value="" />
@@ -168,11 +164,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TesteCampoDeTreinamento.texto" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="TesteFramesEJanelas.JanelaSemTitulo" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="cursoSelemiun" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="TesteCampoDeTreinamento" />
-      <option name="METHOD_NAME" value="texto" />
+      <option name="MAIN_CLASS_NAME" value="TesteFramesEJanelas" />
+      <option name="METHOD_NAME" value="JanelaSemTitulo" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TesteFramesEJanelas.Janelas" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="cursoSelemiun" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="TesteFramesEJanelas" />
+      <option name="METHOD_NAME" value="Janelas" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -180,11 +186,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.TesteFramesEJanelas.JanelaSemTitulo" />
+        <item itemvalue="JUnit.TesteFramesEJanelas.Janelas" />
         <item itemvalue="JUnit.TesteAlert.alertPrompt" />
         <item itemvalue="JUnit.TesteAlert.alertCorfirm" />
         <item itemvalue="JUnit.TesteCampoDeTreinamento.link" />
-        <item itemvalue="JUnit.TesteCampoDeTreinamento.texto" />
-        <item itemvalue="JUnit.TesteCampoDeTreinamento" />
       </list>
     </recent_temporary>
   </component>
@@ -202,21 +208,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="TesteCampoDeTreinamento_texto - 2019.11.03 at 10h 58m 35s.xml">
-      <configuration name="TesteCampoDeTreinamento.texto" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="TesteCampoDeTreinamento_texto - 2019.11.03 at 10h 59m 25s.xml">
-      <configuration name="TesteCampoDeTreinamento.texto" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="TesteCampoDeTreinamento_texto - 2019.11.03 at 11h 02m 37s.xml">
-      <configuration name="TesteCampoDeTreinamento.texto" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="TesteCampoDeTreinamento_texto - 2019.11.03 at 11h 05m 35s.xml">
-      <configuration name="TesteCampoDeTreinamento.texto" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="TesteCampoDeTreinamento_link - 2019.11.03 at 11h 07m 18s.xml">
-      <configuration name="TesteCampoDeTreinamento.link" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="TesteAlert_alertCorfirm - 2019.11.03 at 11h 26m 42s.xml">
       <configuration name="TesteAlert.alertCorfirm" configurationId="JUnit" />
     </history-entry>
@@ -232,11 +223,26 @@
     <history-entry file="TesteAlert_alertPrompt - 2019.11.03 at 11h 54m 33s.xml">
       <configuration name="TesteAlert.alertPrompt" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="TesteFramesEJanelas_Janelas - 2019.11.07 at 22h 40m 10s.xml">
+      <configuration name="TesteFramesEJanelas.Janelas" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TesteFramesEJanelas_JanelaSemTitulo - 2019.11.07 at 22h 45m 02s.xml">
+      <configuration name="TesteFramesEJanelas.JanelaSemTitulo" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TesteFramesEJanelas_JanelaSemTitulo - 2019.11.07 at 22h 51m 01s.xml">
+      <configuration name="TesteFramesEJanelas.JanelaSemTitulo" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TesteFramesEJanelas_JanelaSemTitulo - 2019.11.07 at 22h 53m 50s.xml">
+      <configuration name="TesteFramesEJanelas.JanelaSemTitulo" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TesteFramesEJanelas_JanelaSemTitulo - 2019.11.07 at 22h 54m 32s.xml">
+      <configuration name="TesteFramesEJanelas.JanelaSemTitulo" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="ToolWindowManager">
     <frame x="-3" y="26" width="1372" height="744" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.23863636" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24242425" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -250,7 +256,7 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.32956383" />
+      <window_info anchor="bottom" id="Terminal" order="7" visible="true" weight="0.32956383" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="9" />
       <window_info anchor="bottom" id="Messages" order="10" weight="0.3279483" />
@@ -310,7 +316,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/TesteCampoDeTreinamento.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
+        <state relative-caret-position="345">
           <caret line="32" column="44" selection-start-line="32" selection-start-column="44" selection-end-line="32" selection-end-column="44" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -318,10 +324,27 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/TesteCadastro.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="28" lean-forward="true" selection-start-column="28" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/TesteAlert.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="66" column="22" selection-start-line="66" selection-start-column="22" selection-end-line="66" selection-end-column="22" />
+        <state relative-caret-position="240">
+          <caret line="16" column="93" lean-forward="true" selection-start-line="11" selection-start-column="4" selection-end-line="16" selection-end-column="93" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/TesteFramesEJanelas.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="435">
+          <caret line="55" column="22" selection-start-line="55" selection-start-column="22" selection-end-line="55" selection-end-column="22" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
