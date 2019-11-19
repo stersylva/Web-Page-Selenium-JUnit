@@ -3,8 +3,9 @@
   <component name="ChangeListManager">
     <list default="true" id="f55c3c29-b9ac-4090-8c99-c67bbd9f2610" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/TesteFramesEJanelas.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/TesteFramesEJanelas.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/TesteAlert.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/TesteAlert.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/DSL.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/DSL.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/TesteCampoDeTreinamento.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/TesteCampoDeTreinamento.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/TesteCampoDeTreinamento.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/TesteCampoDeTreinamento.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -15,11 +16,62 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/TesteCampoDeTreinamento.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="345">
-              <caret line="32" column="44" selection-start-line="32" selection-start-column="44" selection-end-line="32" selection-end-column="44" />
+            <state relative-caret-position="444">
+              <caret line="105" column="100" selection-start-line="105" selection-start-column="100" selection-end-line="105" selection-end-column="100" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/DSL.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="188">
+              <caret line="89" column="19" selection-start-line="89" selection-start-column="19" selection-end-line="89" selection-end-column="19" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#397#398#0" expanded="true" />
+                <element signature="e#418#419#0" expanded="true" />
+                <element signature="e#507#508#0" expanded="true" />
+                <element signature="e#587#588#0" expanded="true" />
+                <element signature="e#802#803#0" expanded="true" />
+                <element signature="e#855#856#0" expanded="true" />
+                <element signature="e#903#904#0" expanded="true" />
+                <element signature="e#968#969#0" expanded="true" />
+                <element signature="e#1010#1011#0" expanded="true" />
+                <element signature="e#1031#1032#0" expanded="true" />
+                <element signature="e#1111#1112#0" expanded="true" />
+                <element signature="e#1153#1154#0" expanded="true" />
+                <element signature="e#2183#2191#0" expanded="true" />
+                <element signature="e#3147#3148#0" expanded="true" />
+                <element signature="e#3200#3201#0" expanded="true" />
+                <element signature="e#3246#3247#0" expanded="true" />
+                <element signature="e#3320#3321#0" expanded="true" />
+                <element signature="e#3431#3432#0" expanded="true" />
+                <element signature="e#3459#3460#0" expanded="true" />
+                <element signature="e#3528#3529#0" expanded="true" />
+                <element signature="e#3562#3563#0" expanded="true" />
+                <element signature="e#4452#4453#0" expanded="true" />
+                <element signature="e#4473#4474#0" expanded="true" />
+                <element signature="e#4525#4526#0" expanded="true" />
+                <element signature="e#4546#4547#0" expanded="true" />
+                <element signature="e#4608#4609#0" expanded="true" />
+                <element signature="e#4629#4630#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/TesteRegraDeNegocio.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="45">
+              <caret line="18" column="24" selection-start-line="18" selection-start-column="18" selection-end-line="18" selection-end-column="24" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -30,8 +82,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/TesteAlert.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="16" column="93" lean-forward="true" selection-start-line="11" selection-start-column="4" selection-end-line="16" selection-end-column="93" />
+            <state relative-caret-position="120">
+              <caret line="13" column="8" selection-start-line="13" selection-start-column="8" selection-end-line="13" selection-end-column="8" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -39,11 +91,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/TesteFramesEJanelas.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="435">
-              <caret line="55" column="22" selection-start-line="55" selection-start-column="22" selection-end-line="55" selection-end-column="22" />
+            <state relative-caret-position="60">
+              <caret line="9" column="21" selection-start-line="9" selection-start-column="21" selection-end-line="9" selection-end-column="21" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -69,12 +121,12 @@
         <option value="$PROJECT_DIR$/src/main/java/TesteGoogle.java" />
         <option value="$PROJECT_DIR$/src/main/java/TesteCadastro.java" />
         <option value="$PROJECT_DIR$/src/main/java/RegraDeNegocioPage.java" />
-        <option value="$PROJECT_DIR$/src/main/java/DSL.java" />
         <option value="$PROJECT_DIR$/src/main/java/TesteRegraDeNegocio.java" />
-        <option value="$PROJECT_DIR$/src/main/java/TesteCampoDeTreinamento.java" />
-        <option value="$PROJECT_DIR$/src/main/java/TesteAlert.java" />
         <option value="$PROJECT_DIR$/src/main/java/TesteFrames.java" />
         <option value="$PROJECT_DIR$/src/main/java/TesteFramesEJanelas.java" />
+        <option value="$PROJECT_DIR$/src/main/java/TesteAlert.java" />
+        <option value="$PROJECT_DIR$/src/main/java/DSL.java" />
+        <option value="$PROJECT_DIR$/src/main/java/TesteCampoDeTreinamento.java" />
       </list>
     </option>
   </component>
@@ -90,7 +142,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
@@ -110,14 +161,22 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="cursoSelemiun" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Desafio_paginas_da_web" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1573178863207" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1574129169807" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
@@ -133,64 +192,60 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.TesteFramesEJanelas.JanelaSemTitulo">
-    <configuration name="TesteAlert.alertCorfirm" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="cursoSelemiun" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="TesteAlert" />
-      <option name="METHOD_NAME" value="alertCorfirm" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TesteAlert.alertPrompt" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="cursoSelemiun" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="TesteAlert" />
-      <option name="METHOD_NAME" value="alertPrompt" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TesteCampoDeTreinamento.link" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.TesteCampoDeTreinamento.testeRadioButon">
+    <configuration name="TesteCampoDeTreinamento" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="cursoSelemiun" />
       <option name="PACKAGE_NAME" value="" />
       <option name="MAIN_CLASS_NAME" value="TesteCampoDeTreinamento" />
-      <option name="METHOD_NAME" value="link" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TesteCampoDeTreinamento.testeRadioButon" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="cursoSelemiun" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="TesteCampoDeTreinamento" />
+      <option name="METHOD_NAME" value="testeRadioButon" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TesteFramesEJanelas.JanelaSemTitulo" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="TesteCampoDeTreinamento.testeTexArea" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="cursoSelemiun" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="TesteFramesEJanelas" />
-      <option name="METHOD_NAME" value="JanelaSemTitulo" />
+      <option name="MAIN_CLASS_NAME" value="TesteCampoDeTreinamento" />
+      <option name="METHOD_NAME" value="testeTexArea" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TesteFramesEJanelas.Janelas" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="TesteCampoDeTreinamento.testeTextField" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="cursoSelemiun" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="TesteFramesEJanelas" />
-      <option name="METHOD_NAME" value="Janelas" />
+      <option name="MAIN_CLASS_NAME" value="TesteCampoDeTreinamento" />
+      <option name="METHOD_NAME" value="testeTextField" />
       <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TesteRegraDeNegocio" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="cursoSelemiun" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="TesteRegraDeNegocio" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.TesteFramesEJanelas.JanelaSemTitulo" />
-        <item itemvalue="JUnit.TesteFramesEJanelas.Janelas" />
-        <item itemvalue="JUnit.TesteAlert.alertPrompt" />
-        <item itemvalue="JUnit.TesteAlert.alertCorfirm" />
-        <item itemvalue="JUnit.TesteCampoDeTreinamento.link" />
+        <item itemvalue="JUnit.TesteCampoDeTreinamento.testeRadioButon" />
+        <item itemvalue="JUnit.TesteCampoDeTreinamento.testeTexArea" />
+        <item itemvalue="JUnit.TesteCampoDeTreinamento.testeTextField" />
+        <item itemvalue="JUnit.TesteCampoDeTreinamento" />
+        <item itemvalue="JUnit.TesteRegraDeNegocio" />
       </list>
     </recent_temporary>
   </component>
@@ -208,41 +263,41 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="TesteAlert_alertCorfirm - 2019.11.03 at 11h 26m 42s.xml">
-      <configuration name="TesteAlert.alertCorfirm" configurationId="JUnit" />
+    <history-entry file="TesteCampoDeTreinamento_testeTextField - 2019.11.11 at 21h 15m 43s.xml">
+      <configuration name="TesteCampoDeTreinamento.testeTextField" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="TesteAlert_alertCorfirm - 2019.11.03 at 11h 28m 53s.xml">
-      <configuration name="TesteAlert.alertCorfirm" configurationId="JUnit" />
+    <history-entry file="TesteCampoDeTreinamento - 2019.11.11 at 21h 16m 19s.xml">
+      <configuration name="TesteCampoDeTreinamento" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="TesteAlert_alertCorfirm - 2019.11.03 at 11h 29m 35s.xml">
-      <configuration name="TesteAlert.alertCorfirm" configurationId="JUnit" />
+    <history-entry file="TesteCampoDeTreinamento - 2019.11.11 at 21h 20m 58s.xml">
+      <configuration name="TesteCampoDeTreinamento" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="TesteAlert_alertCorfirm - 2019.11.03 at 11h 30m 07s.xml">
-      <configuration name="TesteAlert.alertCorfirm" configurationId="JUnit" />
+    <history-entry file="TesteCampoDeTreinamento - 2019.11.11 at 21h 22m 11s.xml">
+      <configuration name="TesteCampoDeTreinamento" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="TesteAlert_alertPrompt - 2019.11.03 at 11h 54m 33s.xml">
-      <configuration name="TesteAlert.alertPrompt" configurationId="JUnit" />
+    <history-entry file="TesteCampoDeTreinamento - 2019.11.11 at 21h 22m 42s.xml">
+      <configuration name="TesteCampoDeTreinamento" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="TesteFramesEJanelas_Janelas - 2019.11.07 at 22h 40m 10s.xml">
-      <configuration name="TesteFramesEJanelas.Janelas" configurationId="JUnit" />
+    <history-entry file="TesteCampoDeTreinamento - 2019.11.11 at 21h 24m 36s.xml">
+      <configuration name="TesteCampoDeTreinamento" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="TesteFramesEJanelas_JanelaSemTitulo - 2019.11.07 at 22h 45m 02s.xml">
-      <configuration name="TesteFramesEJanelas.JanelaSemTitulo" configurationId="JUnit" />
+    <history-entry file="TesteCampoDeTreinamento_testeTextField - 2019.11.11 at 21h 29m 13s.xml">
+      <configuration name="TesteCampoDeTreinamento.testeTextField" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="TesteFramesEJanelas_JanelaSemTitulo - 2019.11.07 at 22h 51m 01s.xml">
-      <configuration name="TesteFramesEJanelas.JanelaSemTitulo" configurationId="JUnit" />
+    <history-entry file="TesteCampoDeTreinamento_testeTextField - 2019.11.11 at 21h 32m 43s.xml">
+      <configuration name="TesteCampoDeTreinamento.testeTextField" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="TesteFramesEJanelas_JanelaSemTitulo - 2019.11.07 at 22h 53m 50s.xml">
-      <configuration name="TesteFramesEJanelas.JanelaSemTitulo" configurationId="JUnit" />
+    <history-entry file="TesteCampoDeTreinamento_testeTexArea - 2019.11.11 at 21h 36m 03s.xml">
+      <configuration name="TesteCampoDeTreinamento.testeTexArea" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="TesteFramesEJanelas_JanelaSemTitulo - 2019.11.07 at 22h 54m 32s.xml">
-      <configuration name="TesteFramesEJanelas.JanelaSemTitulo" configurationId="JUnit" />
+    <history-entry file="TesteCampoDeTreinamento_testeRadioButon - 2019.11.11 at 21h 47m 07s.xml">
+      <configuration name="TesteCampoDeTreinamento.testeRadioButon" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
     <frame x="-3" y="26" width="1372" height="744" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24242425" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25378788" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -256,7 +311,7 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Terminal" order="7" visible="true" weight="0.32956383" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.32956383" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="9" />
       <window_info anchor="bottom" id="Messages" order="10" weight="0.3279483" />
@@ -279,24 +334,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/DSL.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="25" column="58" selection-start-line="25" selection-start-column="58" selection-end-line="25" selection-end-column="58" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#154#155#0" expanded="true" />
-            <element signature="e#190#191#0" expanded="true" />
-            <element signature="e#370#371#0" expanded="true" />
-            <element signature="e#450#451#0" expanded="true" />
-            <element signature="e#495#496#0" expanded="true" />
-            <element signature="e#555#556#0" expanded="true" />
-            <element signature="e#597#598#0" expanded="true" />
-            <element signature="e#625#626#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/TesteGoogle.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
@@ -304,37 +341,20 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/TesteRegraDeNegocio.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/TesteCadastro.java" />
+    <entry file="jrt:///usr/lib/jvm/java-1.11.0-openjdk-amd64!/java.base/jdk/internal/reflect/NativeMethodAccessorImpl.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1635">
-          <caret line="109" column="28" lean-forward="true" selection-start-line="109" selection-start-column="28" selection-end-line="109" selection-end-column="28" />
+        <state relative-caret-position="-4">
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="e#0#1349#0" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/TesteCampoDeTreinamento.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="32" column="44" selection-start-line="32" selection-start-column="44" selection-end-line="32" selection-end-column="44" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/TesteCadastro.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="28" lean-forward="true" selection-start-column="28" selection-end-column="28" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/TesteAlert.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" column="93" lean-forward="true" selection-start-line="11" selection-start-column="4" selection-end-line="16" selection-end-column="93" />
+        <state relative-caret-position="120">
+          <caret line="13" column="8" selection-start-line="13" selection-start-column="8" selection-end-line="13" selection-end-column="8" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -343,8 +363,65 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/TesteFramesEJanelas.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="435">
-          <caret line="55" column="22" selection-start-line="55" selection-start-column="22" selection-end-line="55" selection-end-column="22" />
+        <state relative-caret-position="60">
+          <caret line="9" column="21" selection-start-line="9" selection-start-column="21" selection-end-line="9" selection-end-column="21" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/TesteRegraDeNegocio.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="18" column="24" selection-start-line="18" selection-start-column="18" selection-end-line="18" selection-end-column="24" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/DSL.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="188">
+          <caret line="89" column="19" selection-start-line="89" selection-start-column="19" selection-end-line="89" selection-end-column="19" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#397#398#0" expanded="true" />
+            <element signature="e#418#419#0" expanded="true" />
+            <element signature="e#507#508#0" expanded="true" />
+            <element signature="e#587#588#0" expanded="true" />
+            <element signature="e#802#803#0" expanded="true" />
+            <element signature="e#855#856#0" expanded="true" />
+            <element signature="e#903#904#0" expanded="true" />
+            <element signature="e#968#969#0" expanded="true" />
+            <element signature="e#1010#1011#0" expanded="true" />
+            <element signature="e#1031#1032#0" expanded="true" />
+            <element signature="e#1111#1112#0" expanded="true" />
+            <element signature="e#1153#1154#0" expanded="true" />
+            <element signature="e#2183#2191#0" expanded="true" />
+            <element signature="e#3147#3148#0" expanded="true" />
+            <element signature="e#3200#3201#0" expanded="true" />
+            <element signature="e#3246#3247#0" expanded="true" />
+            <element signature="e#3320#3321#0" expanded="true" />
+            <element signature="e#3431#3432#0" expanded="true" />
+            <element signature="e#3459#3460#0" expanded="true" />
+            <element signature="e#3528#3529#0" expanded="true" />
+            <element signature="e#3562#3563#0" expanded="true" />
+            <element signature="e#4452#4453#0" expanded="true" />
+            <element signature="e#4473#4474#0" expanded="true" />
+            <element signature="e#4525#4526#0" expanded="true" />
+            <element signature="e#4546#4547#0" expanded="true" />
+            <element signature="e#4608#4609#0" expanded="true" />
+            <element signature="e#4629#4630#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/TesteCampoDeTreinamento.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="444">
+          <caret line="105" column="100" selection-start-line="105" selection-start-column="100" selection-end-line="105" selection-end-column="100" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
